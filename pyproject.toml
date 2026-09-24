@@ -1,0 +1,19 @@
+[project]
+name = "voice-assistant"
+version = "0.1.0"
+description = "Local-first voice assistant CLI: Whisper STT, OpenAI-compatible LLM, and Piper TTS"
+authors = [{ name = "afrahsanaa" }]
+license = "MIT"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "numpy>=2.5.3",
+    "openai>=3.16.1",
+    "piper-tts>=1.8.0",
+    "scipy>=1.18.1",
+    "sounddevice>=0.5.6",
+    "soundfile>=0.13.1",
+    "torch>=2.14.0",
+    "transformers>=5.17.0",
+]

@@ -10,7 +10,7 @@ A local-first voice assistant CLI. Speech-to-text and text-to-speech run entirel
 
 ## Demo
 
-[Watch the demo](assets/demo.mp4)
+https://github.com/user-attachments/assets/03886089-ef8a-4e79-8269-246d58309d30
 
 Local Whisper STT + Piper TTS: only the transcript leaves your machine.
 
